@@ -1,4 +1,3 @@
-```markdown:README.md
 # Nothing Landing Page
 
 A responsive, minimalist single-page promotional website showcasing tech hardware, inspired by the Nothing brand.
@@ -91,7 +90,3 @@ If you wish to contribute to this project, please follow these guidelines:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
-```eof
-
-```
